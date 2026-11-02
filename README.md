@@ -70,8 +70,8 @@ A classification report with precision, recall and F1 is also printed.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/R-Karthik7/DL-Lab-Programs.git
-cd DL-Lab-Programs
+git clone https://github.com/Nitin555-reddy/DL-Programs.git
+cd DL-Programs-Nitin
 
 # 2. Install the requirements
 pip install -r requirements.txt
